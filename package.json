@@ -1,0 +1,14 @@
+{
+  "name": "luxon-timezone-validator",
+  "version": "0.0.4",
+  "description": "Validates Luxon Timezones and Suggests Alternatives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^1.16.0"
+  }
+}
