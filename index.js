@@ -92,7 +92,6 @@ module.exports = {
     ) {
       return deprecatedAlternative;
     }
-
-    return "GMT";
+    return false;
   }
 };
